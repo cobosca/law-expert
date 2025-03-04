@@ -1,0 +1,9 @@
+Flask
+Flask_SocketIO
+eventlet
+openai
+jsonify
+pandas
+tiktoken
+scipy
+PyPDF2
